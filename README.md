@@ -1,5 +1,5 @@
 # Documentation: Setting Up a Bastion Host in AWS
-##### This document outlines the steps to set up a Bastion Host environment in AWS. The purpose of this setup is to provide secure access to resources in a private subnet using a Bastion Host deployed in a public subnet.
+#### This document outlines the steps to set up a Bastion Host environment in AWS. The purpose of this setup is to provide secure access to resources in a private subnet using a Bastion Host deployed in a public subnet.
 
 # Step 1: Create a VPC
 **Action**: Create a new Virtual Private Cloud (VPC).
